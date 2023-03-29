@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liljemery
-- 👀 I’m interested in the Web Development, an the Data Analysis Path
-- 🌱 I’m currently learning C#, JavaScript, NodeJS, SQL.
-- 💞️ I’m not  currently looking to collaborate.
+- 👀 I’m interested in the Web Applications Development,
+- 🌱 I’m currently focusing on JavaScript (Node, React + Vite Bundle, Electron, Mongoose), SQL, NoSQL and practicing C#.
+- 💞️ I’m currently looking to keep expanding my knowledge base and develop useful projects for me and my family/friends.
 - 📫 How to reach me: @liljemery on Instagram.
 
 <!---
