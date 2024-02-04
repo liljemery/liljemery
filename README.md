@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a private project for a cybersecurity enterprise**
 
-- 👯 I’m looking to collaborate on **projects that involve the use of IA APIs**
+- 👯 I’m looking to collaborate on **projects that involve the use of AI APIs**
 
 - 💬 Ask me about **React, Next.js, Angular, Tailwind and Bootstrap**
 
