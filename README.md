@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jerem Inoa Fortuna</h1>
+<h1 align="center">Hi 👋, I'm Jeremy Inoa Fortuna</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
 - 🔭 I’m currently working on **a private project for a cybersecurity enterprise**
