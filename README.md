@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **projects that involve the use of AI APIs**
 
-- 💬 Ask me about **React, Next.js, Angular, Tailwind and Bootstrap**
+- 💬 Ask me about **React, Next.js, Vue Js, DJango Rest Framework, Tailwind and Bootstrap**
 
 - 📫 How to reach me **jeremyinoa67@gmail.com**
 
