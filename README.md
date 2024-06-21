@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Inoa Fortuna</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
-- 🔭 I’m currently working on the **Jamstack**
+- 🔭 I’m currently working on the **Vue an Django**
 
 - 👯 I’m looking to collaborate on **projects that involve the use of AI APIs**
 
