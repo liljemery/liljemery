@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeremy Inoa Fortuna</h1>
-<h3 align="center">A passionate frontend developer from Dominican Republic</h3>
+<h3 align="center">Jr Software Engineer from Dominican Republic</h3>
 
-- 🔭 I’m currently working on the **Vue an Django**
+- 🔭 I’m currently working on **Vue an Django**
 
-- 👯 I’m looking to collaborate on **projects that involve the use of AI APIs**
+- 👯 I’m looking to collaborate on **UI Frameworks**
 
 - 💬 Ask me about **React, Next.js, Vue Js, DJango Rest Framework, Tailwind and Bootstrap**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jeremyinoafortuna/](https://www.linkedin.com/in/jeremyinoafortuna/)
 
-- ⚡ Fun fact **Learning coding i could learn math way better**
+- ⚡ Fun fact **Once i learned coding, i understood math lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
