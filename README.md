@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jeremy Inoa Fortuna</h1>
 <h3 align="center">Jr Software Engineer from Dominican Republic</h3>
 
+![liljemery's Stats](https://github-readme-stats.vercel.app/api?username=liljemery&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![liljemery's Streak](https://github-readme-streak-stats.herokuapp.com/?user=liljemery&theme=tokyonight&hide_border=true)
+
 - 🔭 I’m currently working on **Vue an Django**
 
 - 👯 I’m looking to collaborate on **the creation of an UI Framework**
 
-- 💬 Ask me about **React, Next.js, Vue Js, DJango Rest Framework, Tailwind and Bootstrap**
+- 💬 Ask me about **React, Next.js, Vue Js, DJango Rest Framework, Express, Tailwind and Bootstrap**
 
 - 📫 How to reach me **jeremyinoa67@gmail.com**
 
