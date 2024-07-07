@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremy Inoa Fortuna</h1>
 <h3 align="center">Jr Software Engineer from Dominican Republic</h3>
 
-![liljemery's Stats](https://github-readme-stats.vercel.app/api?username=liljemery&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![liljemery's Streak](https://github-readme-streak-stats.herokuapp.com/?user=liljemery&theme=tokyonight&hide_border=true)
-
 - 🔭 I’m currently working on **Vue an Django**
 
 - 👯 I’m looking to collaborate on **the creation of an UI Framework**
@@ -84,3 +81,6 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </p>
+
+![liljemery's Stats](https://github-readme-stats.vercel.app/api?username=liljemery&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![liljemery's Streak](https://github-readme-streak-stats.herokuapp.com/?user=liljemery&theme=tokyonight&hide_border=true)
