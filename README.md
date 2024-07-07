@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Vue an Django**
 
-- 👯 I’m looking to collaborate on **the creation of an UI Framework**
+- 👯 I’m looking to collaborate on **AI Projects**
 
 - 💬 Ask me about **React, Next.js, Vue Js, DJango Rest Framework, Express, Tailwind and Bootstrap**
 
