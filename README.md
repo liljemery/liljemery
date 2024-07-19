@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jeremy Inoa Fortuna</h1>
 <h3 align="center">Jr Software Engineer from Dominican Republic</h3>
 
-- 🔭 I’m currently working on **Vue an Django**
+- 🔭 I’m currently working on: **Vue an Django**
 
-- 👯 I’m looking to collaborate on **AI Projects**
+- 💬 Ask me about: **React, Next.js, Vue Js, DJango Rest Framework, Express, Tailwind and Bootstrap**
 
-- 💬 Ask me about **React, Next.js, Vue Js, DJango Rest Framework, Express, Tailwind and Bootstrap**
+- 📫 How to reach me: **jeremyinoa67@gmail.com**
 
-- 📫 How to reach me **jeremyinoa67@gmail.com**
+- 📄 Know about my experiences: [https://www.linkedin.com/in/jeremyinoafortuna/](https://www.linkedin.com/in/jeremyinoafortuna/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jeremyinoafortuna/](https://www.linkedin.com/in/jeremyinoafortuna/)
+- ⚡ Fun fact: **Once I learned to code, I understood math, lol.**
 
-- ⚡ Fun fact **Once i learned coding, i understood math lol**
+- 👯 Fun Story: **I became Excel Savy trying to code an interactive application using Excel Formulas and conditional rendering in Visual Basic for Applications. Spoiler: I couldn't, but i learned how to use most of excel functionalities**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
