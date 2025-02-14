@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Inoa Fortuna</h1>
-<h3 align="center">Jr Software Engineer from Dominican Republic</h3>
+<h3 align="center">Software Engineer from Dominican Republic</h3>
 
 - 🔭 I’m currently working on: **React, Vue, Node and Python**
 
