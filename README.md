@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy Inoa Fortuna</h1>
 <h3 align="center">Software Engineer from Dominican Republic</h3>
 
-- 🔭 I’m currently working on: **React, Vue, Node and Python**
+- 🔭 I’m currently working on: **React, Python and Machine Learning**
 
 - 💬 Ask me about: **React, Next.js, Vue Js, Mesop, FastAPI, DJango Rest Framework, Express, Tailwind and Bootstrap**
 
