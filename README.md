@@ -84,5 +84,4 @@
 
 ![](https://komarev.com/ghpvc/?username=liljemery&color=green)
 
-![liljemery's Stats](https://github-readme-stats.vercel.app/api?username=liljemery&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![liljemery's Streak](https://github-readme-streak-stats.herokuapp.com/?user=liljemery&theme=tokyonight&hide_border=true)
