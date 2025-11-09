@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **React, Python and Machine Learning**
 
-- 💬 Ask me about: **React, Next.js, Vue Js, Mesop, FastAPI, DJango Rest Framework, Express, Tailwind and Bootstrap**
+- 💬 Ask me about: **React, Next.js, Vue Js, Express, Pythonp**
 
 - 📫 How to reach me: **jeremyinoa67@gmail.com**
 
