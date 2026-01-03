@@ -7,7 +7,7 @@ I design and build <strong>backend systems, API integrations, and automation wor
 
 ---
 
-### 🧠 What I Do
+### What I Do
 - Build scalable backend services using <strong>Python (FastAPI)</strong> and <strong>Node.js (Express)</strong>
 - Design <strong>automation pipelines</strong> and async workflows (APIs, webhooks, internal tooling)
 - Work with relational and NoSQL databases in production systems
@@ -16,7 +16,7 @@ I design and build <strong>backend systems, API integrations, and automation wor
 
 ---
 
-### 🛠️ Core Tech Stack
+### My Core Tech Stack
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
@@ -49,14 +49,14 @@ I design and build <strong>backend systems, API integrations, and automation wor
 
 ---
 
-### 🚀 Selected Work
+### Relevant Work
 - Backend services and automation pipelines for SaaS and B2B systems  
 - API-driven integrations and async workflows to eliminate manual processes  
 - Systems deployed with CI/CD, monitoring, and structured logging  
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 - 📧 Email: <strong>jeremyinoa67@gmail.com</strong>  
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/jeremyinoafortuna/">jeremyinoafortuna</a>
 
